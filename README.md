@@ -1,2 +1,3 @@
 # ravestories
-initial ravestories repo
+
+ravestories repository for server & client 
